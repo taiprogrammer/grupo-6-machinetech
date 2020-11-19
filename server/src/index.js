@@ -3,7 +3,7 @@ const cors = require("cors");
 
 
 const app = express();
-const msg = "Running!";
+const msg = "stopped!";
 
 app.use(cors());
 
